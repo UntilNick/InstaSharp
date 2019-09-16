@@ -1,2 +1,2 @@
 # InstaSharp
- C# Instagram User Information Wrapper
+C# Instagram API Library
